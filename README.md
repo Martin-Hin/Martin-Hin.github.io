@@ -23,5 +23,5 @@ Aspiring full-stack web developer
 - Redux
 - Data structures
 
-![Header](./your-header-image-name.png)
+
 
