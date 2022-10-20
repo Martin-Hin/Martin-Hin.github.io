@@ -23,5 +23,8 @@ Aspiring full-stack web developer
 - Redux
 - Data structures
 
+![Header](https://github.com/Martin-Hin/Martin-Hin.github.io/blob/main/github-header-image%20(1).png)
 
+
+https://github.com/Martin-Hin/Martin-Hin.github.io/blob/main/github-header-image%20(1).png
 
